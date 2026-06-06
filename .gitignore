@@ -15,3 +15,9 @@ venv/
 
 # source research PDFs (copyrighted - not redistributed)
 *.pdf
+
+# keep the extracted documentation assets even though *.csv is ignored above
+!docs/tables/*.csv
+
+# local editor/agent config
+.claude/

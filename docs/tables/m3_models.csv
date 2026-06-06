@@ -1,0 +1,9 @@
+model,description,log_ML,post_prob
+m2,"stationary, no trend, cross-dependence",684.5674316276414,0.9999999999797637
+m4,"stationary, trend, cross-dependence",659.942849692725,2.021528862979082e-11
+m6,"pure random walk, cross-dependence",589.8711271122598,7.48027376075507e-42
+m8,"random walk + drift, cross-dependence",566.5072366199074,5.3346849411813766e-52
+m3,"stationary, trend, independent",376.1067369772682,1.0894879451915972e-134
+m1,"stationary, no trend, independent",357.9968489513355,1.486613224137648e-142
+m5,"pure random walk, independent",-47.485265145696665,1.18455e-318
+m7,"random walk + drift, independent",-70.01711881404745,0.0

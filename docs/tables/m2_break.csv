@@ -1,0 +1,15 @@
+POR,comparison,value,decision
+beta_01,"DS, break in var  vs  TS, break in mean & var",74.17212176620224,accept null
+beta_02,"TS, break in var  vs  TS, break in mean & var",0.8993090947450239,reject null
+beta_03,"TS, break in mean vs  TS, break in mean & var",2.4259165444115465e-19,reject null
+beta_04,"DS, no break      vs  TS, break in mean & var",9.380638194381837e-19,reject null
+beta_05,"TS, no break      vs  TS, break in mean & var",3.574196522308617e-20,reject null
+beta_06,"DS, break in var  vs  TS, break in var",82.4767837883724,accept null
+beta_07,"TS, break in mean vs  TS, break in var",2.697533649539431e-19,reject null
+beta_08,"DS, no break      vs  TS, break in var",1.0430938872069873e-18,reject null
+beta_09,"TS, no break      vs  TS, break in var",3.9743804918619103e-20,reject null
+beta_10,"DS, no break      vs  TS, break in mean",3.8668429118023493,accept null
+beta_11,"TS, no break      vs  TS, break in mean",0.1473338615271948,reject null
+beta_12,"DS, break in var  vs  TS, break in mean",3.057488598982045e+20,accept null
+beta_13,"DS, break in var  vs  TS, no break",2.0752110664103483e+21,accept null
+beta_14,"DS, no break      vs  TS, no break",26.24544603474341,accept null
